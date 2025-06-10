@@ -1,6 +1,6 @@
 # Pizza Sales Microsoft excel Dashboard
 
-![]()
+![](https://github.com/Ajay96700/Pizza-Sales-Excel-Dashboard/blob/main/Pizza%20Sales%20Dashboard.png)
 
 ## The objective was to understand which pizzas and categories drive the most revenue, identify peak order times, and provide recommendations for inventory planning.
 
